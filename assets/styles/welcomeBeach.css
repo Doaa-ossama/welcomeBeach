@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.header{
+    width:100%;
+    height:60vh;
+    text-align: center;
+    color:#94633c;
+    background: url(../media/images/beachshow.jpg);
+    background-repeat: no-repeat;
+    background-size:  100% 100%;
+}
+#b1{
+    border-color: #94633c;
+    color:#94633c;
+    height: 35px;
+    border-radius: 10%;
+    background-color: #efece6b0;
+    margin-top: 6px;
+    }
+.div1 p,.div2 p{
+    text-align: center;
+}
+.div5 p,.div3 p,.div1 p{  
+    background-color:#94633c;
+    color:#efece6;
+}
+.div4 p,.div2 p{  
+    background-color:#efece6 ;
+    color:#94633c;
+}
+.div5 p,.div3 p,.div4 p{
+    width:33% ;
+    float: left;
+    padding-left:5px;
+}
